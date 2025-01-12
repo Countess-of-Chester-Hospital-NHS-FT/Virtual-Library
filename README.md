@@ -27,6 +27,7 @@ Helpful data science &amp; analytics resources. If you want to suggest a useful 
 * [Mastering Statistical Process Control Charts](https://anhoej.github.io/spc4hc/) - free book in progress on SPC in healthcare for analysts
 * [HSMA Discrete Event Simulation Book](https://hsma-programme.github.io/hsma6_des_book/) - provides framework for coding DES models using Simpy :star:
 * Simulation: The Practice of Model Development And Use by Stewart Robinson - accessible textbook for DES projects, physical book (I have a copy) :star:
+* [Telling Stories with Data](https://tellingstorieswithdata.com/)
 
 ### General computer science
 * [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Harvard's introduction to computer science :star:
