@@ -22,6 +22,7 @@ Helpful data science &amp; analytics resources. If you want to suggest a useful 
 * [Duck book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) - Gov Analysis Function and Statistical Service
 * [DevOps for Data Science](https://do4ds.com/) - free book recommended on Gov Data Science slack :star:
 * [The GDS Way](https://gds-way.digital.cabinet-office.gov.uk/) - DevOps guidance from Government Digital Service
+* [NHSE Open Code Checklist Document](https://github.com/nhsengland/nhse-repository-template/blob/main/OPEN_CODE_CHECKLIST.md) :star:
 
 ### Stats and modelling
 * [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - very accessible stats videos :star:
