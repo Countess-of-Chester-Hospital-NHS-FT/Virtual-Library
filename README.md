@@ -34,6 +34,9 @@ Helpful data science &amp; analytics resources. If you want to suggest a useful 
 * [Awesome DES](https://github.com/galenseilis/awesome-des) - big curated list of simulation resources
 * [Telling Stories with Data](https://tellingstorieswithdata.com/)
 
+## Ethics and risks
+* Weapons of Math Destruction by Cathy O'Neil - physical book (in office library) :star:
+
 ### General computer science
 * [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Harvard's introduction to computer science :star:
 
