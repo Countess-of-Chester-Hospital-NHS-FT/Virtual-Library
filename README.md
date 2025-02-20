@@ -27,7 +27,7 @@ Helpful data science &amp; analytics resources. If you want to suggest a useful 
 
 ### Stats and modelling
 * [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - very accessible stats videos :star:
-* [An Introduction to Statistical Learning](https://www.statlearning.com/) - download pdf for free
+* [An Introduction to Statistical Learning](https://www.statlearning.com/) - download pdf for free :star:
 * [Mastering Statistical Process Control Charts](https://anhoej.github.io/spc4hc/) - free book in progress on SPC in healthcare for analysts
 * [HSMA Discrete Event Simulation Book](https://hsma-programme.github.io/hsma6_des_book/) - provides framework for coding DES models using Simpy :star:
 * Simulation: The Practice of Model Development And Use by Stewart Robinson - accessible textbook for DES projects, physical book (I have a copy) :star:
