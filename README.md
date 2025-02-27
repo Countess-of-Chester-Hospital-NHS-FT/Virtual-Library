@@ -5,7 +5,7 @@ Helpful data science &amp; analytics resources. If you want to suggest a useful 
 ### Using Git/Github
 * [Happy git with R](https://happygitwithr.com/) - how to get started with git and connect it to RStudio/Posit :star:
 * [Big Book of Git](https://department-for-transport.github.io/big_book_of_git/) - Manual from the department for transport :star:
-* [Git for Humans🧍](https://speakerdeck.com/alicebartlett/git-for-humans)
+* [Git for Humans🧍](https://speakerdeck.com/alicebartlett/git-for-humans) - slide deck by Alice Bartlett (FT)
 
 ### General R
 * [R 4 Data Science 2e](https://r4ds.hadley.nz/) - the tidyverse bible, very accessible :star:
