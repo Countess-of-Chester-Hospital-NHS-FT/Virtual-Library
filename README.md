@@ -52,6 +52,6 @@ Helpful data science &amp; analytics resources. If you want to suggest a useful 
 ### Inspiration
 * [Flu Tracker](https://nhsml-nuct.shinyapps.io/NationalFlu/) - RShiny app displaying weekly flu sitrep data
 * [Population Pyramids and healthcare use](https://the-strategy-unit.github.io/aging_pop_web_app/) - App showing healthcare predictions based off ONS population projections (javascript)
-* [Open Prescribing](https://openprescribing.net/) - Project to make publicly avaiable GP prescribing data as useful as possible.
+* [Hospitals Open Prescribing](https://hospitals.openprescribing.net/) - Project to make publicly avaiable hospital prescribing data as useful as possible.
 
 If you were ever to run out of resources, a huge list of free programming related e-books is available here [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
