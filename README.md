@@ -26,6 +26,7 @@ Helpful data science &amp; analytics resources. If you want to suggest a useful 
 * [NHSE Open Code Checklist Document](https://github.com/nhsengland/nhse-repository-template/blob/main/OPEN_CODE_CHECKLIST.md) :star:
 * [The Turing Way](https://book.the-turing-way.org/) - guide to all aspects of data science research
 * [Analysts' Guide (DfE)](https://dfe-analytical-services.github.io/analysts-guide/) - has helpful section on using Databricks
+* [Defra AI SDLC Playbook](https://defra.github.io/defra-ai-sdlc/) - guidance for using AI code editor (cursor) for work projects
 
 ### Stats and modelling
 * [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - very accessible stats videos :star:
