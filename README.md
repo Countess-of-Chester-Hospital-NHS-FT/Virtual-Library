@@ -18,7 +18,7 @@ Helpful data science &amp; analytics resources. If you want to suggest a useful 
 * [Python for Data Analysis](https://wesmckinney.com/book/) - has chapters on cleaning / wrangling in python
 * [Python Basics Book](https://realpython.com/products/python-basics-book/) - not free, but have a pdf copy in Data Science Projects folder
 * [Python Tricks: The Book](https://realpython.com/products/python-tricks-book/?utm_source=drip&utm_medium=email&utm_campaign=pytricks-email&__s=t6u37vj8t0qlopawp38o) - follow on to the above, not free, but have a pdf copy in Data Science Projects folder
-* [Pytest Book](https://pytest-with-eric.com/)
+* [Pytest Book](https://pytest-with-eric.com/) - recommeded by Sammi
 
 ### Frameworks, checklists and coding practices
 * [Duck book](https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html) - Gov Analysis Function and Statistical Service
