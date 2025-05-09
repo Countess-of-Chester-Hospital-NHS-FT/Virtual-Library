@@ -40,6 +40,7 @@ Helpful data science &amp; analytics resources. If you want to suggest a useful 
 * [Awesome DES](https://github.com/galenseilis/awesome-des) - big curated list of simulation resources
 * [Telling Stories with Data](https://tellingstorieswithdata.com/)
 * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+* [The Epidemiologist R Handbook](https://epirhandbook.com/en/) - recommended on NHSR slack
 
 ### Ethics and risks
 * Weapons of Math Destruction by Cathy O'Neil - physical book (in office library) :star:
