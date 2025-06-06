@@ -46,6 +46,7 @@ Helpful data science &amp; analytics resources. If you want to suggest a useful 
 ### Ethics and risks
 * Weapons of Math Destruction by Cathy O'Neil - physical book (in office library) :star:
 * [Data Ethics Framework](https://www.gov.uk/government/publications/data-ethics-framework/data-ethics-framework-2020) - Government Digital Service (currently being updated)
+* [MoJ Ethics Framework](https://www.gov.uk/government/publications/ministry-of-justice-ai-and-data-science-ethics-framework)
 
 ### General computer science
 * [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Harvard's introduction to computer science :star:
