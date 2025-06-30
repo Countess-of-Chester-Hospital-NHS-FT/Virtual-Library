@@ -29,6 +29,7 @@ Helpful data science &amp; analytics resources. If you want to suggest a useful 
 * [Analysts' Guide (DfE)](https://dfe-analytical-services.github.io/analysts-guide/) - has helpful section on using Databricks
 * [Defra AI SDLC Playbook](https://defra.github.io/defra-ai-sdlc/) - guidance for using AI code editor (cursor) for work projects
 * [Impact Evaluation of AI Interventions](https://www.gov.uk/government/publications/the-magenta-book/guidance-on-the-impact-evaluation-of-ai-interventions-html) - Treasury guidance
+* [Statistical Programming Training](https://datasciencecampus.github.io/statistical_programming_training_pathways/) - ONS training pathways
 
 ### Stats and modelling
 * [StatQuest](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) - very accessible stats videos :star:
