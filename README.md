@@ -55,6 +55,9 @@ Helpful data science &amp; analytics resources. If you want to suggest a useful 
 ### Teaching and learning
 * [Teaching Tech Together](https://teachtogether.tech/en/index.html) - recommended at NHS RPyCom conference
 
+### Presentation
+* [Slidecrafting](https://emilhvitfeldt.com/project/slidecraft-101/)
+
 ### NHS and Healthcare
 * [Kings Fund - The NHS Explained](https://www.kingsfund.org.uk/leadership-development/courses/nhs-explained-course)
 
