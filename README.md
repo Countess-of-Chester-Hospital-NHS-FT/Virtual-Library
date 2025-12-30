@@ -51,6 +51,7 @@ Helpful data science &amp; analytics resources. If you want to suggest a useful 
 
 ### General computer science
 * [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) - Harvard's introduction to computer science :star:
+* [Designing Data-Intensive Applications](https://unidel.edu.ng/focelibrary/books/Designing%20Data-Intensive%20Applications%20The%20Big%20Ideas%20Behind%20Reliable,%20Scalable,%20and%20Maintainable%20Systems%20by%20Martin%20Kleppmann%20%28z-lib.org%29.pdf) - An accessible, illuminating guide to how modern database engines and distributed data systems work, and the trade-offs behind their design :star:
 
 ### Teaching and learning
 * [Teaching Tech Together](https://teachtogether.tech/en/index.html) - recommended at NHS RPyCom conference
